@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CSE225">
         <activity
-            android:name=".ToolbarActivity"
+            android:name=".DateTimePickerActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,9 +19,14 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".NotificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ToolbarActivity"
+            android:exported="true" />
+        <activity
             android:name=".RatingBarActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />
