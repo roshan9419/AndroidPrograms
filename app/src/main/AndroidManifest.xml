@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CSE225">
         <activity
-            android:name=".FragmentStaticColorActivity"
+            android:name=".CustomWidgetsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,8 +19,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".FragmentActivity"
+            android:name=".FragmentsConnectionActivity"
             android:exported="false"/>
+        <activity
+            android:name=".FragmentStaticColorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FragmentActivity"
+            android:exported="false" />
         <activity
             android:name=".DateTimePickerActivity"
             android:exported="false" />

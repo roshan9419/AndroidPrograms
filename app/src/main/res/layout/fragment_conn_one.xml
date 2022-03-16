@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3DBFFA"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".fragments.FragmentConnOne">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Data Transfer Between Fragments"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/fragConnET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/fragConnBtn2nd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send to 2nd Fragment"/>
+
+    <Button
+        android:id="@+id/fragConnBtn3rd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send to 3rd Fragment"/>
+
+</LinearLayout>

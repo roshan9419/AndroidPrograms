@@ -19,7 +19,7 @@ class StaticFragColorOne : Fragment() {
         // Inflate the layout for this fragment
         val view =  inflater.inflate(R.layout.static_frag_color_one, container, false)
         view.findViewById<Button>(R.id.fragBtnGreen).setOnClickListener {
-            (activity as FragmentStaticColorActivity).newColor(Color.GREEN)
+            //(activity as FragmentStaticColorActivity).newColor(Color.GREEN)
         }
         return view
     }

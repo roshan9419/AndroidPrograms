@@ -3,17 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/drawable-v24/ic_clear_black_24dp.xml" value="0.15" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/drawable/border_selected_option.xml" value="0.2755208333333333" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/drawable/ic_alert.xml" value="0.14947916666666666" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/drawable/ic_clear_black.xml" value="0.15" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/drawable/payment_wallet.xml" value="0.14947916666666666" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_custom_widgets.xml" value="0.1" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_date_time_picker.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_fragment.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_fragment_static.xml" value="0.259375" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_fragment_static_color.xml" value="0.259375" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_fragments_connection.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_main.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_notification.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_rating_bar.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/activity_toolbar.xml" value="0.259375" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/fragment_conn_one.xml" value="0.259375" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/fragment_conn_three.xml" value="0.259375" />
+        <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/fragment_conn_two.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/fragment_static_frag_color_two.xml" value="0.2453125" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/fragment_static_frag_one.xml" value="0.259375" />
         <entry key="..\:/Subject CODES/Android Projects/CSE225/app/src/main/res/layout/fragment_static_frag_two.xml" value="0.2453125" />
@@ -22,7 +30,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
