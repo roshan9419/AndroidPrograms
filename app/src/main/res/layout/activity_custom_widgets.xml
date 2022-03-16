@@ -19,8 +19,9 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
+        android:layout_marginTop="5dp"
         android:layout_marginBottom="100dp"
-        android:background="#CFCFCF"/>
+        android:background="#F1F1F1"/>
 
     <com.lpu.cse225.customwidgets.CustomTextView
         android:layout_width="wrap_content"
