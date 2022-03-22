@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CSE225">
         <activity
-            android:name=".CustomWidgetsActivity"
+            android:name=".CustomDrawingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyPaintActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,8 +22,11 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".CustomWidgetsActivity"
+            android:exported="false" />
+        <activity
             android:name=".FragmentsConnectionActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".FragmentStaticColorActivity"
             android:exported="false" />
